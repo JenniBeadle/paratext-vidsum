@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkparatext_vidsum=self.webpackChunkparatext_vidsum||[]).push([[3403],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
