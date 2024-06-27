@@ -12,7 +12,7 @@ Les résumés des plus de 90 vidéos de formation Paratext peuvent être consult
 
 - :film_projector: Résumés des vidéos (90+) [**regroupés par caractéristiques Paratext**](Video-summaries/00-list-of-videos.md)
 - :film_projector: Résumés vidéo (90+) [**regroupés par tâche**](Video-summaries/00-TOC-overview.md) suivant le plan SIL.
-	- :book: Télécharger la version [**PDF ici**](pathname:///img/Ptx-vidsum.fr.9.3.pdf)
+	- :book: Télécharger la version [**PDF ici**](https://jennibeadle.github.io/paratext-vidsum/fr/Video-summaries/TOC-overview)
 
 ## Manuel de formation Paratext
 Le [**Manuel de formation Paratext**](https://manual.paratext.org) est maintenant sur le site Paratext.
